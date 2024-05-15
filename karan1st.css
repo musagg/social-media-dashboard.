@@ -1,0 +1,54 @@
+h4:hover {
+    color: red;
+    transition: 2s;
+    text-decoration: underline;
+    
+}
+
+#simple-list-example a:hover {
+    color: black;
+    
+
+}
+
+#cardhov .card-body:hover {
+    background-color: grey;
+    color: white;
+    transition: 1.5s;
+
+}
+
+#cardhov h2:hover {
+    text-decoration: underline;
+}
+
+.card-body h2:hover {
+    text-decoration: underline;
+
+}
+
+.col-md-4 .card-body:hover {
+    background-color: grey;
+    color: white;
+    transition: 1.5s;
+    
+
+}
+
+.col-md-4 .card-body:hover {
+    background-color: grey;
+    color: white;
+    transition: 1.5s;
+    
+}
+
+
+.navbar-nav a:hover {
+    color: white;
+    transition: 1s;
+    text-decoration: underline
+}
+
+.navbar-nav a {
+    color: black;
+}

@@ -1,0 +1,177 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 13px;
+    background-color: #fff;
+    box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.2);
+    position: sticky;
+    top: 0;
+}
+
+h1 {
+    font-size: 40px;
+}
+.maintable {
+    margin-top: 2%;
+    margin-left: 5%;
+}
+.money {
+    margin-left: 20%;
+    height: 545px;
+}
+
+.insta {
+    color: #d62976;
+}
+
+.b1 {
+    font-size: 20px;
+    color: darkmagenta;
+}
+.b2 {
+    font-size: 50px;
+}
+.b3 {
+    font-size: 50px;
+    color: deeppink;
+}
+
+.logo img {
+    height: 40px;
+}
+
+.search{
+    margin-left: 66%;
+    height: 22px;
+    width: 250px;
+    text-align: center;
+}
+
+.searchid {
+    width: 276px;
+}
+
+.profile img {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+}
+
+main {
+    padding: 2rem;
+    text-align: center;
+}
+
+.td1 {
+    padding-top: 0%;
+}
+
+.b4 {
+    font-size:25px ;
+    margin-top: 14%;
+}
+
+.b5 {
+    font-size: 22px;
+    color: #71797e;
+}
+.partner {
+        margin-top: 30%;
+        margin-left: 25%;
+}
+
+.td3 {
+    margin-left: 5%;
+}
+
+.p1 {
+    margin-left: 28%;
+    color: #800080;
+    margin-top: 26%;
+
+}
+.p2 {
+    margin-left: 28%;
+    font-size: 30px;
+}
+.p3 {
+    margin-left: 28%;
+}
+
+
+.p4 {
+    margin-left: 32%;
+    color: #800080;
+    margin-top: 28%;
+
+}
+.p5 {
+    margin-left: 32%;
+    font-size: 30px;
+}
+.p6 {
+    margin-left: 32%;
+}
+.shopping {
+    margin-left: 38%;
+    margin-top: 17%;
+}
+
+.subscription {
+    margin-top: 30%;
+    margin-left: 25%;
+}
+
+.td5 {
+    margin-left: 5%;
+}
+
+.p7 {
+    margin-left: 28%;
+    color: #800080;
+    margin-top: 24%;
+
+}
+.p8 {
+    margin-left: 28%;
+    font-size: 30px;
+}
+.p9 {
+    margin-left: 28%;
+}
+
+.feedback {
+    margin-top: 7%;
+
+    background-image: linear-gradient(to right,#4f5bd5,#962fbf,#d62976,#fa7e1e,#feda75);
+
+}
+
+.feed {
+    font-size: 50px;
+    margin-left: 26%;
+}
+
+.textarea {
+    margin-left: 45%;
+    
+}
+
+.end {
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+
+::placeholder {
+      text-align: center;
+      padding-top: 12%;
+}
